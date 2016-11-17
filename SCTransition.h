@@ -12,6 +12,7 @@ typedef enum : NSUInteger {
     
     SCPopTransition, //default
     SCPushTransition,
+    SCPopNative,
     
 } SCTransitionType;
 
